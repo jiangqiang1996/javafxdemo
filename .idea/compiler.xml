@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javafxdemo" />
+        <module name="javafx03" />
         <module name="javafx02" />
         <module name="javafx01" />
       </profile>
