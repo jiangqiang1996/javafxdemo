@@ -43,12 +43,12 @@ public class TestLabel extends Application {
         label3.setTranslateY(50);
         label3.setPrefWidth(100);
 
-        label3.setOnMouseEntered((MouseEvent e) -> {
+        label3.setOnMouseEntered((MouseEvent e) -> {//鼠标移入事件
             label3.setScaleX(1.5);//X方向缩放倍数
             label3.setScaleY(1.5);//Y方向缩放倍数
         });
 
-        label3.setOnMouseExited((MouseEvent e) -> {
+        label3.setOnMouseExited((MouseEvent e) -> {//鼠标移出事件
             label3.setScaleX(1);
             label3.setScaleY(1);
         });
