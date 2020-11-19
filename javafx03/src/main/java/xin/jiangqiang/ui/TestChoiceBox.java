@@ -16,7 +16,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class ChoiceBoxSample extends Application {
+public class TestChoiceBox extends Application {
 
     Rectangle rect = new Rectangle(150, 30);
     final Label label = new Label("Hello");
