@@ -5,4 +5,5 @@ module xin.jiangqiang {
 
 //    opens xin.jiangqiang.ui to javafx.fxml;
     exports xin.jiangqiang.ui;
+    exports xin.jiangqiang.layout;
 }
