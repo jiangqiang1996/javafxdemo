@@ -11,5 +11,5 @@ module xin.jiangqiang {
     exports xin.jiangqiang.fxml;
     exports xin.jiangqiang.event;
     exports xin.jiangqiang.scene;
-
+    exports xin.jiangqiang.property;
 }
