@@ -12,4 +12,5 @@ module xin.jiangqiang {
     exports xin.jiangqiang.event;
     exports xin.jiangqiang.scene;
     exports xin.jiangqiang.property;
+    exports xin.jiangqiang.collection;
 }
