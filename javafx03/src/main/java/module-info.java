@@ -9,5 +9,6 @@ module xin.jiangqiang {
 
     opens xin.jiangqiang.fxml to javafx.fxml;
     exports xin.jiangqiang.fxml;
+    exports xin.jiangqiang.event;
 
 }
