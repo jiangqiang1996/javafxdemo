@@ -13,4 +13,5 @@ module xin.jiangqiang {
     exports xin.jiangqiang.scene;
     exports xin.jiangqiang.property;
     exports xin.jiangqiang.collection;
+    exports xin.jiangqiang.thread;
 }
