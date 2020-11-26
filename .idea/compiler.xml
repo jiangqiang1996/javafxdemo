@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javafxdemo" />
-        <module name="javafxother" />
         <module name="javafx04" />
+        <module name="javafxother" />
         <module name="javafx03" />
+        <module name="javafxfxgl" />
         <module name="javafx02" />
         <module name="javafx01" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fxgl-samples" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

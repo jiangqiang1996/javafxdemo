@@ -13,10 +13,11 @@
         <option value="$PROJECT_DIR$/javafx03/pom.xml" />
         <option value="$PROJECT_DIR$/javafx04/pom.xml" />
         <option value="$PROJECT_DIR$/javafxother/pom.xml" />
+        <option value="$PROJECT_DIR$/javafxfxgl/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
